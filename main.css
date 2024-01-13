@@ -33,7 +33,7 @@ footer {
 }
 
 .paragraph {
-    font-size: 20px;
+    font-size: 15px;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -80,9 +80,8 @@ button:hover {
 }
 
 .heading2 {
-    padding: 5%;
+    padding: 4%;
     font-size: 30px;
-    text-align: center;
     font-family: 'Poppins', sans-serif;
 }
 
@@ -108,7 +107,7 @@ button:hover {
 }
 
 .heading {
-    padding: 5%;
+    padding: 2%;
     font-size: 30px;
     font-family: 'Poppins', sans-serif;
 }
@@ -146,7 +145,7 @@ ul {
 .listprop {
     font-family: 'Poppins', sans-serif;
     color: black;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 .box {
@@ -204,4 +203,84 @@ a:hover {
 
 .uppercase-text {
     text-transform: uppercase;
+}
+
+#carouselExampleCaptions {
+    width: 700px;
+}
+
+#carouselExampleCaptions2 {
+    width: 700px;
+}
+
+#carouselExampleCaptions3 {
+    width: 700px;
+}
+
+#carouselExampleCaptions4 {
+    width: 700px;
+}
+
+#carouselExampleCaptions5 {
+    width: 700px;
+}
+
+#carouselExampleCaptions6 {
+    width: 700px;
+}
+
+#carouselExampleCaptions7 {
+    width: 700px;
+}
+
+#carouselExampleCaptions8 {
+    width: 700px;
+}
+
+#carouselExampleCaptions9 {
+    width: 700px;
+}
+
+#carouselExampleCaptions10 {
+    width: 700px;
+}
+
+#carouselExampleCaptions11 {
+    width: 700px;
+}
+
+#carouselExampleCaptions12 {
+    width: 700px;
+}
+
+#carouselExampleCaptions13 {
+    width: 700px;
+}
+
+#carouselExampleCaptions14 {
+    width: 700px;
+}
+
+#carouselExampleCaptions15 {
+    width: 700px;
+}
+
+#carouselExampleCaptions16 {
+    width: 700px;
+}
+
+#carouselExampleCaptions17 {
+    width: 700px;
+}
+
+#carouselExampleCaptions18 {
+    width: 700px;
+}
+
+#carouselExampleCaptions19 {
+    width: 700px;
+}
+
+.carouseltext {
+    font-size: 20px;
 }
